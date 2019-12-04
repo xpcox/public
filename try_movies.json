@@ -1,5 +1,5 @@
 {
-	"file": "https://www.dropbox.com/s/2eakqem9wmlxi0a/movies.csv",
+	"file": "https://raw.githubusercontent.com/xpcox/public/something/movies.csv",
 	"name": "Test",
 	"header": 0,
 	"separator": ";",
